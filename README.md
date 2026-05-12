@@ -117,8 +117,8 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
 
 | Curso | Instituição | Período |
 |-------|-------------|---------|
-| 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | Universidade Estácio de Sá | 2023 – 2027 |
-| 🏫 Ensino Médio Técnico em Automação Industrial | CEFET | 2023 – 2027 |
+| 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | Universidade Estácio de Sá | 2023 – 2027.2 |
+| 🏫 Ensino Médio Técnico em Automação Industrial | CEFET | 2020 – 2023 |
 
 ---
 
@@ -138,7 +138,5 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ef7&height=100&section=footer&reversal=false" width="100%"/>
-
-<sub>Feito com 💙 por Miguel Freitas · Rio de Janeiro, RJ 🇧🇷</sub>
 
 </div>
