@@ -93,14 +93,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=miguelrfreitas&show_icons=true&theme=tokyonight&bg_color=0a0a0f&title_color=4f8ef7&icon_color=4f8ef7&text_color=e8e8f0&border_color=1c1c28&border_radius=12&hide_border=false&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrfreitas&layout=compact&theme=tokyonight&bg_color=0a0a0f&title_color=4f8ef7&text_color=e8e8f0&border_color=1c1c28&border_radius=12&hide_border=false&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrfreitas&theme=tokyonight&background=0a0a0f&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=7a7a9a&dates=7a7a9a&border=1c1c28&border_radius=12" />
 
 </div>
