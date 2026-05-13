@@ -97,12 +97,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelrfreitas&bg_color=0a0a0f&color=7eb8f7&line=4f8ef7&point=4f8ef7&area=true&area_color=4f8ef7&hide_border=false&border_color=1c1c28&radius=12" width="95%" />
-
-</div>
-
 ---
 
 ## 🎓 Educação
