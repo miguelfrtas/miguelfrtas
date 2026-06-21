@@ -112,7 +112,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-0a0a0f?style=for-the-badge&logoColor=white)]((https://miguelfrtasdev.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-0a0a0f?style=for-the-badge&logoColor=white)](https://miguelfrtasdev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelrfreitas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.frtas@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521983690856)
