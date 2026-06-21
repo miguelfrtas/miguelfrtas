@@ -110,7 +110,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
 
 ## 🌐 Portfólio & Contato
 
-<div align="center">
+<div align="center" target="_blank">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfólio-0a0a0f?style=for-the-badge&logoColor=white)](https://miguelfrtasdev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelr-freitas/)
