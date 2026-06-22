@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ef7&height=200&section=header&text=Miguel%20Freitas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Front-end&descAlignY=58&descSize=20&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ef7&height=200&section=header&text=Miguel%20Freitas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descAlignY=58&descSize=20&descColor=a0c4ff" width="100%"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👋 Olá, eu sou o Miguel!
 
-Desenvolvedor Front-end com **2 anos de experiência** construindo e mantendo interfaces responsivas para clientes de grande porte. Passei por **Teleperformance** e **Claro** como dev alocado, reformulei o site completo da Innolevels com WordPress + PHP e criei um portal de vagas do zero.
+Desenvolvedor Fullstack com **2 anos de experiência** construindo e mantendo interfaces responsivas para clientes de grande porte. Passei por **Teleperformance** e **Claro** como dev alocado, reformulei o site completo da Innolevels com WordPress + PHP e criei um portal de vagas do zero.
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (previsão 2027) e sempre buscando evoluir como dev.
 
