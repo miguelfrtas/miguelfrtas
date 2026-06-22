@@ -61,8 +61,8 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
     <td width="60px" align="center">🔐</td>
     <td>
       <strong>Técnico de Controle de Acesso</strong> — <a href="#">Control iD</a><br/>
-      <sub>dez/2025 – atual · Rio de Janeiro, RJ</sub><br/>
-      Configuração e manutenção de equipamentos de reconhecimento facial e RFID em ambientes corporativos. Diagnóstico de falhas e suporte técnico presencial.
+      <sub>dez/2025 – mai/2026 · 7 meses · Rio de Janeiro, RJ</sub><br/>
+      Configuração e manutenção de equipamentos de reconhecimento facial e RFID em ambientes corporativos. Diagnóstico de falhas e suporte técnico remoto.
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
