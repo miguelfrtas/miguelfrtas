@@ -69,7 +69,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
   <tr>
     <td width="60px" align="center">💻</td>
     <td>
-      <strong>Estagiário Front-end</strong> — <a href="https://www.innolevels.com.br">Innolevels</a><br/>
+      <strong>Estagiário Fullstack</strong> — <a href="https://www.innolevels.com.br">Innolevels</a><br/>
       <sub>out/2023 – nov/2025 · 2 anos · Rio de Janeiro, RJ</sub><br/>
       Reformulação completa do site institucional com <strong>WordPress + PHP</strong>. Criação de portal de vagas do zero. Alocado em:<br/>
       &nbsp;&nbsp;📲 <strong>Teleperformance</strong> — módulos front-end, Umbraco CMS, deploys e suporte via chat<br/>
