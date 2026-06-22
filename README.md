@@ -87,18 +87,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrfreitas&theme=tokyonight&background=0a0a0f&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=7a7a9a&dates=7a7a9a&border=1c1c28&border_radius=12" />
-
-</div>
-
----
-
 ## 🎓 Educação
 
 | Curso | Instituição | Período |
