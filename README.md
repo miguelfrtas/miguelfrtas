@@ -20,7 +20,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio (prev
 
 - 🌍 Rio de Janeiro, RJ — Brasil
 - 🎓 Tecnólogo em ADS · Estácio de Sá (2023–2027)
-- 💼 Aberto a oportunidades de **estágio e júnior em front-end**
+- 💼 Aberto a oportunidades de **estágio e júnior**
 - 📬 **miguel.frtas@gmail.com**
 
 ---
